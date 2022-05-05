@@ -4,11 +4,12 @@ An Analysis, Modeling, and Prediction project that takes the [Analytics Vidhya](
 
 ## Purpose
 
-To experient and explore with decision based modeling and find anaylsis based prediction.
+To experiment and explore with decision based modeling and find anaylsis based predictions.
+This project will work though a base introduction to modeling for decision based machine learning models for prediction loans.
 
 ## Set-up
 
-To reproduce these analysis, models and predictions, follow the Jupyter Notebooks in order step by step.
+To reproduce these analysis, models and predictions, follow the Jupyter Notebook in order step by step.
 
 ## Resources: 
 
@@ -23,5 +24,7 @@ To reproduce these analysis, models and predictions, follow the Jupyter Notebook
 [seaborn](https://seaborn.pydata.org/)
 
 [scikit-learn](https://scikit-learn.org/stable/)
+
+[imblearn](https://imbalanced-learn.org/stable/index.html)
 
 [Analytics Vidhya Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement)
